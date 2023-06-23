@@ -662,6 +662,7 @@ h1{
 
 #preloader{
   position: fixed;
+
   background-color: black;
   height: 100vh;
   width: 100%;
@@ -672,7 +673,8 @@ h1{
 }
 
 .flexcontainer{
-  position: relative;
+  position: absolute;
+  top: 32vh;
   /* width: 5rem; */
   display: flex;
   justify-content: center;
@@ -767,7 +769,7 @@ h1{
   .flexitem1 img{
       height: 5rem;
       transform: translate(120%);
-      animation: shrink-move-logo 3s 1 forwards;
+      animation: shrink-move-logo 2s 0.2s forwards;
   }
   
   .flexitem2{
@@ -779,7 +781,7 @@ h1{
       height: 3rem;
       transform: translate(-100%);
       /* width: fit-content; */
-      animation: slide-right 1.5s 1.8s forwards;
+      animation: slide-right 1s 1.5s forwards;
       
   }
   
@@ -793,7 +795,7 @@ h1{
       bottom: 25%;
       left:30%;
       opacity: 0;
-      animation: loading 1s 3.5s ease-in-out infinite alternate;
+      animation: loading 1s 3s ease-in-out infinite alternate;
   }
   
 
