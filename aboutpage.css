@@ -31,7 +31,7 @@ header{
   }
   .container-fluid {
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
     align-items: center;
     justify-content: space-between;
     padding-right: 40px;
@@ -50,7 +50,7 @@ header{
     color: yellow;
   }
   .d-inline-block {
-    padding-top: 10px;
+    padding-top: 17px;
   }
   li {
     display: flexbox;
@@ -160,7 +160,7 @@ main{
         padding-top: 0;
         margin: 0;
         background-color: black;
-        background-image: url("Backgroundimage.png");
+        background-image: url("responsivebg.png");
         background-size: cover;
     }
     section{
