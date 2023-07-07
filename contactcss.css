@@ -177,7 +177,7 @@ main{
         padding-top: 0;
         margin: 0;
         background-color: black;
-        background-image: url("Backgroundimage.png");
+        background-image: url("responsivebg.png");
         background-size: cover;
     }
     section{
