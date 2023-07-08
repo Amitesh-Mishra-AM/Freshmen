@@ -713,16 +713,6 @@
               'Color': 'Red',
             },
 
-            'Praveen Lalwani':{
-              'Teaching': '5/5',
-              'Evaluation': '4/5',
-              'Behaviour': '5/5',
-              'Internals': '5/5',
-              'Average': 'High',
-              'Overall': 'Good',
-              'Color': '#00ff00',
-            },
-
             'Avirup Das':{
               'Teaching': '4/5',
               'Evaluation': '5/5',
@@ -962,13 +952,13 @@
             },
             
             'Praveen Kumar Lalwani':{
-              'Teaching': '1/5',
-              'Evaluation': '1/5',
-              'Behaviour': '1/5',
+              'Teaching': '3/5',
+              'Evaluation': '2.5/5',
+              'Behaviour': '3/5',
               'Internals': '5/5',
               'Average': 'High',
-              'Overall': 'Bad',
-              'Color': 'Red',
+              'Overall': 'Average',
+              'Color': 'Orange',
             },
 
           };
