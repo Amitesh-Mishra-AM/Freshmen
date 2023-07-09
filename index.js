@@ -851,7 +851,7 @@
               'Color': 'Orange',
             },
 
-            'S. Saravanan':{
+            'S Saravanan':{
               'Teaching': '4/5',
               'Evaluation': '5/5',
               'Behaviour': '4/5',
