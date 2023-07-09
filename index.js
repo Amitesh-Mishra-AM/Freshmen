@@ -612,7 +612,7 @@
               'Color': '#00ff00',
             },
           
-            'Yogita Dwidei':{  
+            'Yogita Dwivedi':{  
               'Teaching': '4/5',
               'Evaluation': '4/5',
               'Behaviour': '3.5/5',
