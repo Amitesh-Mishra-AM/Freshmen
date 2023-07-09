@@ -693,7 +693,7 @@
               'Color': '#00ff00',
             },
           
-            'Saurav prasad':{
+            'Saurav Prasad':{
               'Teaching': '5/5',
               'Evaluation': '4.5/5',
               'Behaviour': '5/5',
