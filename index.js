@@ -235,7 +235,7 @@
               'Color': 'orange',
             },
 
-            'Javed Khan Shiekh':{
+            'Javed Khan':{
               'Teaching': '5/5',
               'Evaluation': '4.5/5',
               'Behaviour': '4/5',
