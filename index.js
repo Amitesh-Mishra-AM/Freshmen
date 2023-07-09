@@ -891,7 +891,7 @@
               'Color': 'Red',
             },
 
-            'R.P.Sugavaneshwar':{
+            'R.P Sugavaneshwar':{
               'Teaching': '2/5',
               'Evaluation': '1/5',
               'Behaviour': '1/5',
