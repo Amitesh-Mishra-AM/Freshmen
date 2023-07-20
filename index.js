@@ -961,6 +961,147 @@
               'Color': 'Orange',
             },
 
+            'Sonali Shrivastav':{
+              'Teaching': '4/5',
+              'Evaluation': '3/5',
+              'Behaviour': '4/5',
+              'Internals': '3/5',
+              'Average': 'Medium',
+              'Overall': 'Good',
+              'Color': '#00ff00',
+            },
+            
+            'Shahid Abdullah':{
+              'Teaching': '5/5',
+              'Evaluation': '5/5',
+              'Behaviour': '5/5',
+              'Internals': '4/5',
+              'Average': 'Medium',
+              'Overall': 'Good',
+              'Color': '#00ff00',
+            },
+
+            'Shahid Abdullah':{
+              'Teaching': '5/5',
+              'Evaluation': '5/5',
+              'Behaviour': '5/5',
+              'Internals': '4/5',
+              'Average': 'Medium',
+              'Overall': 'Good',
+              'Color': '#00ff00',
+            },
+
+            'Soumya Sanskar Ghosh':{
+              'Teaching': '3/5',
+              'Evaluation': '3/5',
+              'Behaviour': '4/5',
+              'Internals': '3/5',
+              'Average': 'Medium',
+              'Overall': 'Average',
+              'Color': 'orange',
+            },
+
+            'Neha Choubey':{
+              'Teaching': '4/5',
+              'Evaluation': '2/5',
+              'Behaviour': '3/5',
+              'Internals': '4/5',
+              'Average': 'Low',
+              'Overall': 'Average',
+              'Color': 'orange',
+            },
+            
+            'Pavan Mehta':{
+              'Teaching': '4/5',
+              'Evaluation': '5/5',
+              'Behaviour': '5/5',
+              'Internals': '4/5',
+              'Average': 'Medium',
+              'Overall': 'Good',
+              'Color': '#00ff00',
+            },
+
+            'Shweta Saxena':{
+              'Teaching': '1/5',
+              'Evaluation': '2/5',
+              'Behaviour': '1/5',
+              'Internals': '2/5',
+              'Average': 'Medium',
+              'Overall': 'Bad',
+              'Color': 'red',
+            },
+
+            'Mamta Agarwal':{
+              'Teaching': '4.5/5',
+              'Evaluation': '4/5',
+              'Behaviour': '5/5',
+              'Internals': '4.5/5',
+              'Average': 'Medium',
+              'Overall': 'Good',
+              'Color': '#00ff00',
+            },
+
+            'Anand Motwani':{
+              'Teaching': '4.6/5',
+              'Evaluation': '4/5',
+              'Behaviour': '4/5',
+              'Internals': '5/5',
+              'Average': 'Medium',
+              'Overall': 'Good',
+              'Color': '#00ff00',
+            },
+
+            'Divya Thakur':{
+              'Teaching': '4/5',
+              'Evaluation': '5/5',
+              'Behaviour': '5/5',
+              'Internals': '5/5',
+              'Average': 'High',
+              'Overall': 'Good',
+              'Color': '#00ff00',
+            },
+
+            'Divya Thakur':{
+              'Teaching': '4/5',
+              'Evaluation': '5/5',
+              'Behaviour': '5/5',
+              'Internals': '5/5',
+              'Average': 'High',
+              'Overall': 'Good',
+              'Color': '#00ff00',
+            },
+
+            'Abhay Vidyarthi':{
+              'Teaching': '4/5',
+              'Evaluation': '4/5',
+              'Behaviour': '5/5',
+              'Internals': '4/5',
+              'Average': 'Medium',
+              'Overall': 'Good',
+              'Color': '#00ff00',
+            },
+
+            'E Nirmala':{
+              'Teaching': '3/5',
+              'Evaluation': '3/5',
+              'Behaviour': '3/5',
+              'Internals': '4/5',
+              'Average': 'Medium',
+              'Overall': 'Average',
+              'Color': 'orange',
+            },
+
+            'Shilpa Suman':{
+              'Teaching': '3/5',
+              'Evaluation': '5/5',
+              'Behaviour': '4/5',
+              'Internals': '5/5',
+              'Average': 'High',
+              'Overall': 'Good',
+              'Color': '#00ff00',
+            },
+                    
+
           };
 
           //capturing the selected value in the dropdown
